@@ -1,0 +1,16 @@
+.TodoItem-p--complete {
+  text-decoration: line-through;
+}
+.Icon-check {
+  cursor: pointer;
+}
+.Icon-check--active {
+  color: #4caf50;
+}
+.Icon-delete {
+  cursor: pointer;
+}
+
+.Icon-delete:hover{
+  color: red;
+}

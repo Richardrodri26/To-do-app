@@ -1,0 +1,20 @@
+.section{
+  width: 90%;
+  display: flex;
+  justify-content:center;
+}
+.ul {
+  list-style-type: none;
+  padding: 0 0 56px 0;
+  color: white;
+  margin: 0;
+}
+.ul li {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  width: 200px;
+  margin-bottom: 10px;
+  background-color: #201e1c;
+  align-items: center;
+}
